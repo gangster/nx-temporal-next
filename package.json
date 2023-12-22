@@ -6,6 +6,7 @@
   "private": true,
   "dependencies": {
     "@nx/next": "17.2.6",
+    "@temporalio/client": "^1.8.6",
     "next": "13.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
